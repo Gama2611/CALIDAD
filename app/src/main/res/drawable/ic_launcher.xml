@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Ícono provisional rosado ADIPACK. Reemplace por el logo de la empresa si lo desea. -->
+<vector xmlns:android="http://schemas.android.com/apk/res/android"
+    android:width="108dp"
+    android:height="108dp"
+    android:viewportWidth="108"
+    android:viewportHeight="108">
+    <path
+        android:fillColor="#E4007C"
+        android:pathData="M54,4 A50,50 0 1,1 53.99,4 Z" />
+    <path
+        android:fillColor="#FFFFFF"
+        android:fillType="evenOdd"
+        android:pathData="M54,24 L78,84 L66,84 L61,71 L47,71 L42,84 L30,84 Z M50,62 L58,62 L54,50 Z" />
+</vector>
